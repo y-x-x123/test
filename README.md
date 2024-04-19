@@ -8,7 +8,7 @@
 6．	显示物体在图像上的移动轨迹；
 7．	预测物体的移动速度，精度不低于60%；
 8．	将物体的属性信息，如形状、大小、移动速度等模拟发送至上层管理系统。
-
+# 废弃
 # 代码使用说明
 # opencv-
 使用python-opencv进行显示入侵物体与轨迹绘制 opencv-Object tracking and trajectory rendering
